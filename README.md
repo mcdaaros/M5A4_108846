@@ -7,6 +7,6 @@
 | Resources | Purpose |
 |:------------|:----
 | Pandas.ipynb          | Duplicate of *PandasIntroduction.html*; duplicated to practice and work with Markdown.        |
-| Pandas.webp                      | Image of  baby panda sitting on a python, used as an introductory image.                                                                                              |
+| Pandas.webp                      | Image of a baby panda sitting on a python, used as an introductory image.                                                                                              |
 | PandasIntroduction.html                                 | The source document which was supplied to be duplicated.                                                                                                                                                                      |
  
