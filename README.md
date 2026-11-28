@@ -2,4 +2,11 @@
 
 **Submitted by 108846**
 
-**Lorem ipsum dolor sit amet** 
+### **Introduction to Pandas DataFrames – Replicating an article in Markdown** 
+
+| Resources | Purpose |
+|:------------|:----
+| Pandas.ipynb          | Duplicate of *PandasIntroduction.html*; duplicated to practice and work with Markdown.        |
+| Pandas.webp                      | Image of  baby panda sitting on a python, used as an introductory image.                                                                                              |
+| PandasIntroduction.html                                 | The source document which was supplied to be duplicated.                                                                                                                                                                      |
+ 
